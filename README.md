@@ -1,2 +1,1 @@
-# React-apps
-Apps I've created using React.
+5 apps I've created using React. My build environment was created with the create-react-app package. The apps I've built are a calculator, drum machine, pomodoro timer, markdown previewer and random quote machine.
