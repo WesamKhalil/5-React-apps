@@ -1,1 +1,2 @@
-5 apps I've created using React. My build environment was created with the create-react-app package. The apps I've built are a calculator, drum machine, pomodoro timer, markdown previewer and random quote machine.
+Make sure you have NPM installed. Once you've done that open a command line, navigate to the folder you've downloaded this into then type 'npm install'.
+Then to run the development mode type 'npm start' which will open the app on 'http://localhost:3000'.

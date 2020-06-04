@@ -1,0 +1,64 @@
+
+.timer-title {
+  text-align: center;
+  margin-top: 5vh;
+}
+
+.timer-lengths {
+  width: 100%;
+  height: auto;
+  margin-bottom: auto auto 5% auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.session {
+  width: 25%;
+  margin-left: 15%;
+  margin-right: 10%;
+  padding: 1% 5% 3% 5%;
+  text-align: center;
+  border: 3px solid black;
+  border-radius: 1rem;
+}
+
+.break {
+  width: 25%;
+  margin-left: 10%;
+  margin-right: 15%;
+  padding: 1% 5% 3% 5%;
+  text-align: center;
+  border: 3px solid black;
+  border-radius: 1rem;
+}
+
+.timer-controls {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.timer-controls button {
+  width: 3rem;
+  height: 3rem;
+}
+
+.timer-controls p {
+  margin: auto;
+}
+
+.timer-but {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  border: 3px solid black;
+  border-radius: 1rem;
+  padding: 5%;
+  margin-top: 5vh;
+}
+
+.timer-but button {
+  width: 5rem;
+  height: 3rem;
+}

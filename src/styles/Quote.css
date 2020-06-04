@@ -1,0 +1,30 @@
+.quote-component {
+  padding: 10vh 0;
+}
+
+.q-title {
+  margin: 5vh 0;
+  text-align: center;
+}
+
+.q-content {
+  margin: auto;
+  width: 80%;
+  border: 2px solid black;
+  background-color: white;
+  padding: 5px;
+}
+
+.quote {
+  margin-bottom: 3vh;
+}
+
+.q-button {
+  display: inline-block;
+}
+
+.author {
+  display: inline-block;
+  float: right;
+  font-size: 1.5rem;
+}
