@@ -5,7 +5,7 @@
   "dependencies": {
     "bootstrap": "^4.4.1",
     "express": "^4.17.1",
-    "marked": "^0.8.0",
+    "marked": "^4.0.10",
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
     "react-marked": "^0.3.1",
